@@ -1,0 +1,16 @@
+/* Most font sizes for most tabs */
+.col-md-9 {
+    font-size: 24px;
+}
+/* Remaining font sizes */
+.col-md-12 {
+    font-size: 24px;
+}
+/* Invite Others - Dashboard Title */
+.dashboard-table .dashboard-table-head {
+    font-size: 24px;
+}
+/* Invite Others - Dashboard subtitle */
+.sub-text {
+    font-size: 22px;
+{
